@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.2.2](https://www.github.com/googleapis/java-datastore/compare/v2.2.1...v2.2.2) (2021-12-28)
+
+
+### Bug Fixes
+
+* **java:** add -ntp flag to native image testing command ([#593](https://www.github.com/googleapis/java-datastore/issues/593)) ([9b6496e](https://www.github.com/googleapis/java-datastore/commit/9b6496e92cb48ca1bfc0b1a733d564466f28deca))
+
 ### [2.2.1](https://www.github.com/googleapis/java-datastore/compare/v2.2.0...v2.2.1) (2021-12-03)
 
 
